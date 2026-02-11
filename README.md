@@ -13,7 +13,7 @@ Build an end-to-end ETL pipeline using Python and pandas to simulate real-world 
 - Handled missing values.
 - Standardized column names (lowercase + underscores).
 - Converted datatypes (dates, numeric).
-- 
+  
 Created derived columns:
 - margin
 - profit_margin_pct
